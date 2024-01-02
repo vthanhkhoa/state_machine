@@ -1,0 +1,1 @@
+git init && git add . &&   git commit -m "updated $1 by thkhoa" && git branch -M main && git remote add origin https://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@github.com/$2 && git push -u origin main
